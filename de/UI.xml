@@ -1008,7 +1008,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <IssuesStr>Probleme, die Aufmerksamkeit erfordern</IssuesStr>
             <ZoneFull>Eine oder mehrere {0} Zonen sind voll</ZoneFull>
             <ZoneRequirements note="[at least one] [deliveries]">{0} {1} Zone muss Anforderungen erfüllen</ZoneRequirements>
-            <OneGateValidation note="[at least one]">{0} Flugzeugtür muss funktionsfähig sein</OneGateValidation>
+            <OneGateValidation note="[at least one]">{0} Flughafen-Gate muss funktionsfähig sein</OneGateValidation>
             <OneRunwayValidation note="[at least one]">{0} Startbahn muss funktionsfähig sein</OneRunwayValidation>
             <UnscheduledFlightValidation>Ein oder mehrere Flüge sind noch NICHT geplant! Klicken Sie auf, um sie jetzt zu planen.</UnscheduledFlightValidation>
             <WorkmenCountValidation>Stelle einen oder mehrere Arbeiter ein, um deine ausstehenden Bauprojekte abzuschließen!</WorkmenCountValidation>
